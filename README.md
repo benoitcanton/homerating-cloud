@@ -5,6 +5,7 @@ This repository contains all the required [Terraform](https://www.terraform.io) 
 
 ## Requirements
 Before being able to apply the Terraform scripts you will need:
+- A Google Cloud project (with its project ID)
 - The Google cloud CLI installed - see [here](https://cloud.google.com/sdk/docs/install-sdk) for how to install
 - Terratorm - see [Install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
